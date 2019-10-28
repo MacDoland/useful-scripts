@@ -1,0 +1,23 @@
+{
+  "name": "useful-scripts",
+  "version": "0.0.1",
+  "description": "A collection of useful scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacDoland/useful-scripts.git"
+  },
+  "keywords": [
+    "js",
+    "scripts"
+  ],
+  "author": "Joe McDowall",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MacDoland/useful-scripts/issues"
+  },
+  "homepage": "https://github.com/MacDoland/useful-scripts#readme"
+}
